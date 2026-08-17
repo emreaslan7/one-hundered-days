@@ -11,13 +11,13 @@ Personal learning journey, daily progress tracking, and engineering notes/blog.
 ## 🧭 Phase-by-Phase Roadmap & Progress
 
 ### Phase 1: Foundations & Core Concepts (Days 1–5)
-| Day | Topic | Status | Engineering Notes & Blog |
-| :---: | :--- | :---: | :--- |
-| **01** | Introduction to AI Agents & Autonomous Systems | ✅ Completed | [Day 01 Notes](./notes/ai-agents/day-01.md) |
-| **02** | Understanding the Agentic Mindset: LLMs, Tools, and Memory | 🔄 Up Next | [Day 02 Notes](./notes/ai-agents/day-02.md) |
-| **03** | Popular Agent Frameworks (LangChain, LlamaIndex, SmolAgents) | ⏳ Pending | - |
-| **04** | Building a Simple Research Assistant Agent | ⏳ Pending | - |
-| **05** | Agent Architecture: ReAct, MRKL & Self-Correction | ⏳ Pending | - |
+| Day | Topic | Status | Curriculum Lesson | Software Book Note |
+| :---: | :--- | :---: | :--- | :--- |
+| **01** | Introduction to AI Agents & Autonomous Systems | ✅ Completed | [Day 01 Lesson](./days/ai-agents/1.md) | `D:/code/software/content/ai-agents/day-01.md` |
+| **02** | Understanding the Agentic Mindset: LLMs, Tools, and Memory | 🔄 Up Next | [Day 02 Lesson](./days/ai-agents/2.md) | `D:/code/software/content/ai-agents/day-02.md` |
+| **03** | Popular Agent Frameworks (LangChain, LlamaIndex, SmolAgents) | ⏳ Pending | [Day 03 Lesson](./days/ai-agents/3.md) | - |
+| **04** | Building a Simple Research Assistant Agent | ⏳ Pending | [Day 04 Lesson](./days/ai-agents/4.md) | - |
+| **05** | Agent Architecture: ReAct, MRKL & Self-Correction | ⏳ Pending | [Day 05 Lesson](./days/ai-agents/5.md) | - |
 
 ---
 
