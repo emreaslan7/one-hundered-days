@@ -1,0 +1,11 @@
+# Environment & Dependencies
+node_modules/
+.env
+.env.local
+dist/
+build/
+
+# Local IDE / Agents & MCP
+.agents/
+mcp/
+.cursor/
