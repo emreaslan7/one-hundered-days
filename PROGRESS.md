@@ -4,7 +4,7 @@ Personal learning journey, daily progress tracking, and engineering notes/blog.
 
 * **Track:** AI Agents & Autonomous Systems (`days/ai-agents/`)
 * **Start Date:** August 17, 2026
-* **Current Status:** Day 17 Completed (Moving to Day 18: Self-Reflection & Iterative Self-Correction! 🚀)
+* **Current Status:** Day 20 Completed (Phase 4 Completed! 🏆 — Moving to Phase 5: Multi-Agent Systems & Swarms 🚀)
 
 ---
 
@@ -48,8 +48,8 @@ Personal learning journey, daily progress tracking, and engineering notes/blog.
 | :---: | :--- | :---: | :--- | :--- |
 | **16** | Advanced Planning: Task Decomposition with Tree of Thoughts | ✅ Completed | [Day 16 Lesson](./days/ai-agents/16.md) | `D:/code/software/content/ai-agents/day-16.md` |
 | **17** | Agents for Software Engineering: A Code-Aware Agent | ✅ Completed | [Day 17 Lesson](./days/ai-agents/17.md) | `D:/code/software/content/ai-agents/day-17.md` |
-| **18** | Self-Reflection & Iterative Self-Correction | 🔄 Up Next | [Day 18 Lesson](./days/ai-agents/18.md) | - |
-| **19** | Hierarchical Multi-Agent Architectures & Orchestration | ⏳ Pending | [Day 19 Lesson](./days/ai-agents/19.md) | - |
-| **20** | Capstone: Autonomous Full-Stack Software Developer | ⏳ Pending | [Day 20 Lesson](./days/ai-agents/20.md) | - |
+| **18** | Agents for Data Analysis: A SQL-Querying Agent | ✅ Completed | [Day 18 Lesson](./days/ai-agents/18.md) | `D:/code/software/content/ai-agents/day-18.md` |
+| **19** | Deploying and Monitoring AI Agents | ✅ Completed | [Day 19 Lesson](./days/ai-agents/19.md) | `D:/code/software/content/ai-agents/day-19.md` |
+| **20** | Project: Build an Advanced Agent (RefactorForge) | ✅ Completed | [Day 20 Lesson](./days/ai-agents/20.md) | `D:/code/software/content/ai-agents/day-20.md` |
 
 > *Subsequent phases (21–100) will be unlocked and updated as progress continues.*
